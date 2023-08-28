@@ -1,6 +1,8 @@
 # personal-wiki
 A github pages website recording ideas from the experience of Asher Anand.
 
+[link](http://asher9943.github.io/personal-wiki)
+
 (No warranty .. do not sue me)
 
 Editing note to self, if running jekyll command that won't work from bash inside

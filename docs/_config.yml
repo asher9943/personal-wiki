@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Chronicling the experience of Asher Anand. Mostly meant for his own
   self-reference. Topics range from technology to cooking. No warrenty ... do
   not sue me.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://asher9943.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  asher9943

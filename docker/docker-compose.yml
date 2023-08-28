@@ -1,6 +1,6 @@
 services:
   wiki:
-    command: bash -c "bundle install --gemfile /root/docs/Gemfile && bundle exec --gemfile /root/docs/Gemfile jekyll serve --source /root/docs --host 0.0.0.0"
+    command: bash -c "bundle install --gemfile /root/docs/Gemfile && bundle exec --gemfile /root/docs/Gemfile jekyll serve --source /root/docs --config /root/docs/_config_local.yml --host 0.0.0.0"
     # command: tail -f /dev/null
     image: jekyll/jekyll
     ports:

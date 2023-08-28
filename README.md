@@ -1,4 +1,11 @@
 # personal-wiki
-A collection of technological experience recorded by Asher Anand for when he inevitably finds himself with a problem he could have sworn he'd run into before.
+A github pages website recording ideas from the experience of Asher Anand.
 
-(Look at the wiki)
+(No warranty .. do not sue me)
+
+Editing note to self, if running jekyll command that won't work from bash inside
+the container, use
+
+ `docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:latest <command>`
+ 
+from inside the docs directory
